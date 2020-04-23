@@ -208,6 +208,7 @@ Swagger/OpenApi are tools which can create your Angular code to access the backe
 - EF Core: <https://docs.microsoft.com/en-us/ef/>
 - Command line Tools: <https://docs.microsoft.com/en-us/ef/core/miscellaneous/cli/dotnet>
 - Migrations: <https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/migrations?view=aspnetcore-3.1>
+- SQL Server Management Studio (SSMS):<https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15>
 - ASP.NET WebApi: <https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-3.1&tabs=visual-studio>
 - Angular: <https://angular.io/>
 - About me: <https://github.com/boeschenstein>
