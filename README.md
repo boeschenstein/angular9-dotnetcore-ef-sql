@@ -17,7 +17,7 @@ Add .NET EF Core to .NET Core WebApi project
   - [Database Access (CRUD)](#database-access-crud)
   - [Tips and Tricks](#tips-and-tricks)
     - [EF Command line Tools + Migrations](#ef-command-line-tools--migrations)
-  - [Whats next](#whats-next)
+  - [What's next](#whats-next)
   - [Additional Information](#additional-information)
     - [Links](#links)
     - [Current Versions](#current-versions)
@@ -197,9 +197,12 @@ rem Add project, if solution contains many
 dotnet ef database update  --context MyDbContext --startup-project <MyProjectName>
 ```
 
-## Whats next
+## What's next
 
-Swagger/OpenApi are tools which can create your Angular code to access the backend: check this <https://github.com/boeschenstein/angular9-dotnetcore-openapi-swagger>
+- Swagger/OpenApi are tools which can create your Angular code to access the backend: check this <https://github.com/boeschenstein/angular9-dotnetcore-openapi-swagger>
+- UnitOfWork Pattern: <https://stackoverflow.com/questions/31298235/how-to-implement-unit-of-work-pattern-with-dapper/31636037#31636037>
+- Repository Pattern: <https://github.com/boeschenstein/GenericUnitOfWork>
+- CleanArchitecture: <https://github.com/ardalis/CleanArchitecture>
 
 ## Additional Information
 
